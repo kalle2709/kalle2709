@@ -1,27 +1,82 @@
 # Meghana-Kalle
 ## Hi there 👋
 
-🔹 Passionate about Frontend Engineering, AI Applications & Scalable Cloud Solutions  
-🔹 Tech Stack: React, TypeScript, JavaScript, Python, Java, Flutter, PostgreSQL, Firebase, Tailwind CSS, TanStack Query,  AWS, Docker, OpenAI, Apache NiFi, Machine Learning  
+🔹 2+ years of hands-on experience shipping production-ready web and AI-driven applications
+
+🔹 Strong in frontend systems, backend APIs, cloud deployment, and AI-assisted workflows
+
+🔹 Currently pursuing M.S. in Computer Science @ Santa Clara University (Class of 2025)
+
+📧 im.kmeghana@gmail.com
 
 ---
 
 ### 💡 About Me
 
-I'm a Software Engineer with experience in full-stack development, frontend design systems, and AI-powered backend services. I thrive in building dynamic web applications, integrating APIs, and optimizing cloud deployments for performance and scalability. I enjoy creating seamless user experiences and applying data-driven logic to solve real-world problems.
+I’m a Full-Stack Engineer with experience across startups, enterprise teams, and academic innovation labs. I enjoy building systems end-to-end — from clean, scalable frontend architectures to backend services that integrate databases, cloud infrastructure, and AI models.
+
+My recent work focuses on:
+
+* AI-powered platforms with structured outputs and reliability safeguards
+
+* Modern frontend stacks using Next.js, React, TypeScript, and MUI
+
+* Cloud-deployed backend services with Docker, AWS, and CI/CD
+
+* Applying AI where it adds real value, not just novelty
+
+
+---
+
+### 🧠 Technical Skills
+
+Frontend
+React · Next.js · TypeScript · JavaScript · SwiftUI · Redux · Tailwind · Material UI · TanStack Query · REST APIs
+
+Backend
+Java · Python · Node.js · NestJS · FastAPI · Spring Boot · Flask · PHP
+
+Databases
+PostgreSQL · MySQL · Redis · Firebase
+
+Cloud & DevOps
+AWS (EC2, RDS, S3) · Docker · Kubernetes · Linux · Git · GitHub · CI/CD
+
+Testing
+JUnit · Jest · Mocha · Cypress
+
+AI & Tools
+OpenAI · Google Gemini · Apache NiFi · pandas · Figma · GitHub Copilot · Cursor · Vercel
 
 ---
 
 ### 💼 Experience
 
-**Full Stack Engineer Intern** · *Talentix Solutions Inc*  
-• Developed a resume processing platform using React (frontend) and Python (backend), achieving 85% accuracy in structured PDF data extraction  
-• Improved candidate-job alignment by 70% via OpenAI integration, with preprocessing powered by Apache NiFi  
-• Managed cloud infrastructure using AWS EC2 & RDS with secure automation via boto3 and psycopg2  
+**Software Engineer — SCU Frugal Innovation Hub**
 
-**Frontend React Developer** · *PwC*  
-• Led development of 15+ responsive UI screens from Figma designs using React, HTML, and CSS  
-• Resolved 95% of reported bugs and delivered clean Git collaboration with 50+ commits  
+  • Built and shipped an AI-driven career planning platform that converts onboarding data into personalized daily job-search tasks
+
+  • Designed a production-grade NestJS + PostgreSQL backend with schema-validated AI outputs and retry logic, reducing AI-related failures by 40%
+
+  • Developed a responsive Next.js frontend and an iOS client using SwiftUI, ensuring consistent UX across platforms
+
+  • Containerized backend services with Docker for reliable, repeatable deployments
+
+
+
+**Full Stack Engineer Intern** · *Talentix Solutions Inc*  
+ • Built and deployed full-stack applications using FastAPI, React, TypeScript, and PostgreSQL on AWS EC2
+
+ • Implemented secure REST APIs with JWT authentication for smooth frontend–backend communication
+
+ • Engineered a resume parsing ETL pipeline using Apache NiFi, improving extraction accuracy and reducing processing time by 20%
+
+**Software  Engineer** · *PwC*  
+• Developed client-facing features for a high-traffic application using React (frontend) and Java (backend)
+
+• Translated 15+ Figma designs into responsive, production-ready UI screens
+
+• Improved CI/CD and Agile workflows, enabling faster and more reliable releases
 
 **Software Test Engineer Intern** · *CSG*  
 • Built 100+ automated test scripts in Cypress and Node.js  
@@ -36,13 +91,14 @@ I'm a Software Engineer with experience in full-stack development, frontend desi
 
 ---
 
-### 🚀 Current Project
+### 🚀 Featured Projects
 
-**Tidy Town – Flutter Learning App**  
-🧠 A bilingual (English + Spanish) learning & gaming Flutter app that helps preschoolers learn about waste sorting  
-🌱 Features: playful animations, progress tracking, and gamified modules promoting sustainability
+**Anchor**  
+AI-powered journaling and career companion focused on reflection, planning, and long-term growth.
+
+Live: https://anchor.feeltiptop.com
 
 ---
 
 📫 Let's connect:  
-[LinkedIn](https://www.linkedin.com/in/kalle-meghana/) | [Portfolio](https://meghanakalle.com/) | ✉️ im.meghana.kalle5@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kalle-meghana/) | [Portfolio](https://meghanakalle.com/) | ✉️ im.kalle.meghana@gmail.com
