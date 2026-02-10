@@ -28,27 +28,6 @@ My recent work focuses on:
 
 ---
 
-### 🧠 Technical Skills
-
-Frontend
-React · Next.js · TypeScript · JavaScript · SwiftUI · Redux · Tailwind · Material UI · TanStack Query · REST APIs
-
-Backend
-Java · Python · Node.js · NestJS · FastAPI · Spring Boot · Flask · PHP
-
-Databases
-PostgreSQL · MySQL · Redis · Firebase
-
-Cloud & DevOps
-AWS (EC2, RDS, S3) · Docker · Kubernetes · Linux · Git · GitHub · CI/CD
-
-Testing
-JUnit · Jest · Mocha · Cypress
-
-AI & Tools
-OpenAI · Google Gemini · Apache NiFi · pandas · Figma · GitHub Copilot · Cursor · Vercel
-
----
 
 ### 💼 Experience
 
